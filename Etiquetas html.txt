@@ -1,0 +1,42 @@
+7capitulo
+
+<section>
+-Se usa para agrupar contenido relacionado por su naturaleza
+o por su semantica.
+-Es decir, cuando el contenido agrupado guarda una relacion clara entre si.
+
+<header> 
+-Generalmente aparece aparece en la parte superior de la pagina. Aun que puede estar
+en cualquier parte.
+-Definido por su contenido no por su posicion.
+-Puede existir varios headers en una misma pagina.
+
+<footer> 
+-como el nuevo header, footer no es dependiente de ninguna posicion en una web.
+-definicion por su contenido no por su posicion.
+-pueden existir varios footer en una misma pagina.
+
+<article>
+-Otro tipo de seccion para contenido relacionado, pero a demas debe ser 
+autonomo.
+-Seria una pieza de contenido que se podria enviar, compartido o consumir de forma indpediente.
+
+<aside>
+-Relacionado conelcontenido que tiene al rededor.
+-Si se usa fuera de un article,su contenido del aside debe estar relacionado con el articulo.
+Si se usa fuera de un article, su contenido debe estar relacionado con el sitio web en si.
+
+<nav> 
+-Es una sccion con enlaces de navegacion.
+-Diseñado para ser el contenedor de todas las estructuras que permitan la navegacion en una pagina web
+
+<main>
+-Con peso semantico absoluto, representa el contenedor principal de una pagina web
+-No debe de haber mas de un main por documento.
+-No debe incluirse en un article, aside, footer, header o nav.
+
+<div>
+-con div (divider) podemos agrupar contenido relacionado pero que no tenga relacion semantica.
+
+
+
