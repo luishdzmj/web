@@ -16,3 +16,8 @@ h1{
   #principal{
     font-size: 20px;
   }
+  .prueba{
+    font-size: 30px;
+    color: red;
+    border: 3px solid red;
+  }
