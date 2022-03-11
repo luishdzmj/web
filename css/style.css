@@ -28,3 +28,7 @@ h1{
     font-size: 25px;
     color: green;
 }
+
+a:hover{
+  color: blue;
+}
