@@ -1,0 +1,42 @@
+/*color de fondo amarillo claro del main*/
+main{
+    background-color: lightyellow;
+    padding: 20px;
+    
+}
+
+h1{
+    color: gray;
+}
+
+h2{
+    color: lightgray;
+}
+
+li{
+    font-size: 26px;
+}
+
+ul li:first-child{
+    font-weight: bold;
+}
+
+ul li:last-child{
+    font-weight: bold;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+li.negrita.verde{
+    font-weight: bolder;
+    color: red;
+}
+
+nav a{
+    padding: 20px;
+    text-decoration: none;
+    font-size: 25px;
+    color: green;
+}

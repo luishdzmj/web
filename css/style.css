@@ -1,6 +1,7 @@
 
 main{
-  background-color: gray;
+  background-color: lightgray;
+  padding: 20px;
 }
 h1{
     color:brown;
@@ -8,11 +9,22 @@ h1{
   }
 
   .destacado{
-    background-color: green;
-    color: blue;
+    background-color: gray;
+    color: brown;
     padding: 5px;
-    border: 3px solid red;
+    border: 3px solid brown;
   }
   #principal{
     font-size: 20px;
   }
+  .prueba{
+    font-size: 30px;
+    color: brown;
+    border: 3px solid brown;
+  }
+
+  nav a{
+    text-decoration: none;
+    font-size: 25px;
+    color: green;
+}
