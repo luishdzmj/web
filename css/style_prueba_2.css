@@ -2,6 +2,7 @@
 main{
     background-color: lightyellow;
     padding: 20px;
+    
 }
 
 h1{
@@ -11,6 +12,7 @@ h1{
 h2{
     color: lightgray;
 }
+
 li{
     font-size: 26px;
 }
@@ -25,4 +27,16 @@ ul li:last-child{
 
 .negrita{
     font-weight: bold;
+}
+
+li.negrita.verde{
+    font-weight: bolder;
+    color: red;
+}
+
+nav a{
+    padding: 20px;
+    text-decoration: none;
+    font-size: 25px;
+    color: green;
 }
